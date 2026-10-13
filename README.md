@@ -1,7 +1,7 @@
 
 <table align="center">
   <tr>
-    <td width="230" align="center" valign="middle">
+    <td width="320" align="center" valign="middle">
       <img src="https://github.com/lohannsc.png" width="300" style="border-radius:50%"/>
     </td>
     <td valign="middle" style="padding-left:20px">
