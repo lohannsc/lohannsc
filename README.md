@@ -1,14 +1,19 @@
-
 <table align="center">
   <tr>
     <td width="320" align="center" valign="middle">
       <img src="https://github.com/lohannsc.png" width="300" style="border-radius:50%"/>
     </td>
     <td valign="middle" style="padding-left:20px">
-      <h2>🌙 Lohanne Castro Oliveira 🧡​</h2>
+          <h2>🌙 Lohanne Castro Oliveira 🧡​</h2>
       <p>✦ Front-End Developer ✦</p>
       <p>📍 Palmas · TO · Brasil</p>
       <p>Estudante de Sistemas para Internet no IFTO (Palmas)</p>
+</td>
+  </tr>
+</table>
+<div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lohannsc&layout=compact&langs_count=8&hide_values=true&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=lohannsc&layout=compact&langs_count=8&hide_values=true&theme=neon)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -19,7 +24,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pbLola)
 [![Gmail](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lohannecastro88@gmail.com)
 
-  </tr>
-</table>
 
+</div>
 
