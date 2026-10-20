@@ -13,7 +13,7 @@
 </table>
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lohannsc&layout=compact&langs_count=8&hide_values=true&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=lohannsc&layout=compact&langs_count=8&hide_values=true&theme=neon)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lohannsc&layout=compact&langs_count=8&hide_values=true&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=lohannsc&layout=compact&langs_count=4&hide_values=true&theme=neon)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
